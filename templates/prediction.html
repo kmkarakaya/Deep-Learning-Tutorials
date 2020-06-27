@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>IRIS PREDICTION RESULT</h2>
+<table>
+  <tr>
+    <th>IRIS TYPE PREDICTED</th>
+    <th>PROBABILITY</th>
+    <th>PROBABILITIES</th>
+
+  </tr>
+  <tr>
+    <td>{{predicted}}</td>
+    <td>{{probabilty}}</td>
+    <td>{{probalities}}</td>
+  </tr>
+
+</table>
+
+{% endblock %}
+
