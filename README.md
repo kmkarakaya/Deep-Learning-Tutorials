@@ -1,10 +1,15 @@
-# MACHINE LEARNING TUTORIALS BY MURAT KARAKAYA AKADEMI 
+# DEEP LEARNING TUTORIALS BY MURAT KARAKAYA AKADEMI 
 
 * [Murat Karakaya Akademi Youtube](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA)
 * [Murat Karakaya Akademi Medium](https://kmkarakaya.medium.com/)
 * [Murat Karakaya Akademi Kaggle](https://www.kaggle.com/kmkarakaya)
 
 # TUTORIALS
+I prepare the below tutorials to help you at solving Deep Learning probleös with TensorFlow and Keras.
+You can also watch all the below tutorials in ENglish or Turkish at the [Murat Karakaya Akademi Youtube channel.](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA) 
+Ihope you find these tutorials helpful and useful.
+Enjoy!
+Murat Karakaya
 
 ## SEQ2SEQ LEARNING
 If you are interested in Seq2Seq Learning, I have a good news for you.
