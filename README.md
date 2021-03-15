@@ -11,6 +11,20 @@ If you are interested in Seq2Seq Learning, I have a good news for you.
 Recently, I have been working on Seq2Seq Learning and I decided to prepare a series of tutorials about Seq2Seq Learning from a simple Multi-Layer Perceptron Neural Network model to Encoder Decoder Model with Attention.
 * [PART A: Introduction & A Simple NN Solution](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_A_INTRODUCTION_TO_SEQ2SEQ_LEARNING_%26_A_SAMPLE_SOLUTION_WITH_MLP_NETWORK.ipynb)
 * [Part B: Using LSTM layer in a Recurrent Neural Network](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_B_Using_LSTM_layer_in_a_Recurrent_Neural_Network.ipynb)
+* [Part C: Basic Encoder Decoder Model](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_C_Basic_Encoder_Decoder.ipynb)
+* [Part D: Encoder Decoder with Teacher Forcing](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_D_Encoder_Decoder_with_Teacher_Forcing.ipynb)
+* [Part E: Encoder Decoder for Variable Input Output Size with Teacher Forcing](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_E_Encoder_Decoder_for_variable_Input_Output_size_with_Teacher_Forcing.ipynb)
+* [Part F: Encoder Decoder with Bahdanau & Luong Attention Mechanism](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_F_Encoder_Decoder_with_Bahdanau_%26_Luong_Attention_Mechanism.ipynb)
+
+## TENSORFLOW DATA PIPELINE
+In this series, we will focus on how to Build Efficient TensorFlow Input Pipelines  in Deep Learning with Tensorflow & Keras.
+We will review the tf.data module. Using tf.data.Dataset methods, we will learn how to map, prefetch, cache, and batch the datasets correctly so that the data input pipeline will be efficient in terms of time and performance. We will discuss how map, prefetch, cache, and batch functions affect the performance of the tf.data.Dataset input pipeline performance.
+
+Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring the performance and bottlenecks of the tf.data input pipeline.
+
+* [Build an Efficient TensorFlow Input Pipeline for Char-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Char_Level_Text_Generation.ipynb)
+* [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
+* [tf data: Build Efficient TensorFlow Input Pipelines for Image Datasets](https://github.com/kmkarakaya/ML_tutorials/blob/master/tf_data_Build_Efficient_TensorFlow_Input_Pipelines_for_Image_Datasets.ipynb)
 
 ## OTHERS
 * **Prediciton of Corona Death Toll in Turkey:** In this notebook, we will predict the number of patients dying due to coronavirus using simple Time Series prediction methods in Pyhthon's Pandas. We use Turkey's daily reports from 13 March 2020 up to 1 May 2020 
