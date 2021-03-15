@@ -1,10 +1,10 @@
-# Machine Learning Tutorials by Murat Karakaya Akademi 
+# MACHINE LEARNING TUTORIALS BY MURAT KARAKAYA AKADEMI 
 
-* [Youtube channel](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA)
-
+* [Murat Karakaya Akademi Youtube](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA)
+* [Murat Karakaya Akademi Medium](https://kmkarakaya.medium.com/)
 * [Kaggle Home Page](https://www.kaggle.com/kmkarakaya)
 
-# Tutorials
+# TUTORIALS
 
 ## SEQ2SEQ LEARNING
 If you are interested in Seq2Seq Learning, I have a good news for you.
@@ -45,23 +45,27 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [How to solve Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
 * [How to solve Multi-Class Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Class_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
 * [How to solve Multi-Label Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Label_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
+* [How to solve Binary Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/Which_Activation_%26_Loss_functions_in_Binary_Classification.ipynb)
+* [Text Classification: Wish or Curse?](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
 
 ## ALL ABOUT LSTM IN KERAS
 
 * [LSTM: Introduction](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Intro.ipynb)
 * [LSTM: Understanding Output Types](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_Output_Types.ipynb)
-* []()
+* [LSTM: Understanding the Number of Parameters](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_the_Number_of_Parameters.ipynb)
+
+
+## TEXT GENERATION WITH KERAS
+
+* [Text Generation: Fundementals](https://github.com/kmkarakaya/ML_tutorials/blob/master/Text_Generation_Fundementals.ipynb)
+* [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
+
+## WEB SCRAPING
+
+* [Web Scrapping: Car Proice Prediction ](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_1.ipynb)
+* [Web Scrapping: Find Your Dream Car](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_FindYourDreamCar.ipynb)
 
 
 
-
-
-## OTHERS
-* **Prediciton of Corona Death Toll in Turkey:** In this notebook, we will predict the number of patients dying due to coronavirus using simple Time Series prediction methods in Pyhthon's Pandas. We use Turkey's daily reports from 13 March 2020 up to 1 May 2020 
-
->* [Github](https://github.com/kmkarakaya/ML_tutorials/blob/master/A_Time_Series_Analysis_Corona_Death_Toll_Prediction.ipynb)
->* [YouTube in Turkish](https://youtu.be/rT0UOyJjOaE)
->* [Colab](https://www.youtube.com/redirect?v=rT0UOyJjOaE&redir_token=9u6bch137RuU4hzoklOx2dd5ddV8MTU4OTIyODUxOUAxNTg5MTQyMTE5&event=video_description&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1LBrPEFUbVsSdHO1Y_ceJXEqTq288aIgx)
->* [Kaggle](https://www.youtube.com/redirect?v=rT0UOyJjOaE&redir_token=9u6bch137RuU4hzoklOx2dd5ddV8MTU4OTIyODUxOUAxNTg5MTQyMTE5&event=video_description&q=https%3A%2F%2Fwww.kaggle.com%2Fkmkarakaya%2Ftime-series-analysis-corona-death-toll-prediction)
 
 
