@@ -6,8 +6,8 @@
 
 # TUTORIALS
 I prepare the below tutorials to help you at solving Deep Learning probleös with TensorFlow and Keras.
-You can also watch all the below tutorials in ENglish or Turkish at the [Murat Karakaya Akademi Youtube channel.](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA) 
-Ihope you find these tutorials helpful and useful.
+You can also watch all the below tutorials in English or Turkish at the [Murat Karakaya Akademi Youtube channel.](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA) 
+I hope you find these tutorials helpful and useful.
 Enjoy!
 Murat Karakaya
 
