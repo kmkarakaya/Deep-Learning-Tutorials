@@ -33,7 +33,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 
 ## MODEL EVALUATION & METRICS
 
-*[How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
+* [How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
 
 ## CONVOLUTIONAL NEURAL NETWORKS (CNN)
 
