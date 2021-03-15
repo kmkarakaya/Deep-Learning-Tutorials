@@ -2,7 +2,7 @@
 
 * [Murat Karakaya Akademi Youtube](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA)
 * [Murat Karakaya Akademi Medium](https://kmkarakaya.medium.com/)
-* [Kaggle Home Page](https://www.kaggle.com/kmkarakaya)
+* [Murat Karakaya Akademi Kaggle](https://www.kaggle.com/kmkarakaya)
 
 # TUTORIALS
 
