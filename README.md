@@ -4,7 +4,7 @@
 
 * [Kaggle Home Page](https://www.kaggle.com/kmkarakaya)
 
-# Contents
+# Tutorials
 * **Prediciton of Corona Death Toll in Turkey:** In this notebook, we will predict the number of patients dying due to coronavirus using simple Time Series prediction methods in Pyhthon's Pandas. We use Turkey's daily reports from 13 March 2020 up to 1 May 2020 
 
 >* [Github](https://github.com/kmkarakaya/ML_tutorials/blob/master/A_Time_Series_Analysis_Corona_Death_Toll_Prediction.ipynb)
