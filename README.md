@@ -26,6 +26,36 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
 * [tf data: Build Efficient TensorFlow Input Pipelines for Image Datasets](https://github.com/kmkarakaya/ML_tutorials/blob/master/tf_data_Build_Efficient_TensorFlow_Input_Pipelines_for_Image_Datasets.ipynb)
 
+## TIME SERIES ANALYSIS
+
+* [A Time Series Analysis: Covid-19 Death Toll Prediction](https://github.com/kmkarakaya/ML_tutorials/blob/master/A_Time_Series_Analysis_Corona_Death_Toll_Prediction.ipynb)
+* [Anomaly Detection in Time Series](https://github.com/kmkarakaya/ML_tutorials/blob/master/Anomaly_Detection_in_Time_Series.ipynb)
+
+## MODEL EVALUATION & METRICS
+
+*[How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
+
+## CONVOLUTIONAL NEURAL NETWORKS (CNN)
+
+* [What are Convolution, Filters, and Feature Map? How Keras Conv2d Layer Works?](https://github.com/kmkarakaya/ML_tutorials/blob/master/CNN_Filters_Conv2D.ipynb)
+* [Understand and Use Keras Conv1d Layer: Predict House Prices](https://github.com/kmkarakaya/ML_tutorials/blob/master/Conv1d_Predict_house_prices.ipynb)
+
+## CLASSIFICATION WITH KERAS
+
+* [How to solve Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
+* [How to solve Multi-Class Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Class_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
+* [How to solve Multi-Label Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Label_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
+
+## ALL ABOUT LSTM IN KERAS
+
+* [LSTM: Introduction](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Intro.ipynb)
+* [LSTM: Understanding Output Types](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_Output_Types.ipynb)
+* []()
+
+
+
+
+
 ## OTHERS
 * **Prediciton of Corona Death Toll in Turkey:** In this notebook, we will predict the number of patients dying due to coronavirus using simple Time Series prediction methods in Pyhthon's Pandas. We use Turkey's daily reports from 13 March 2020 up to 1 May 2020 
 
