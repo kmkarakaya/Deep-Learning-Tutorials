@@ -3,6 +3,7 @@
 * [Murat Karakaya Akademi Youtube](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA)
 * [Murat Karakaya Akademi Medium](https://kmkarakaya.medium.com/)
 * [Murat Karakaya Akademi Kaggle](https://www.kaggle.com/kmkarakaya)
+* [Murat Karakaya Akademi GitHub Pages](https://kmkarakaya.github.io/Deep-Learning-Tutorials/)
 
 # TUTORIALS
 I prepare the below tutorials to help you at solving Deep Learning probleös with TensorFlow and Keras.
