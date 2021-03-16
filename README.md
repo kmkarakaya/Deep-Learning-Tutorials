@@ -6,10 +6,13 @@
 * [Murat Karakaya Akademi GitHub Pages](https://kmkarakaya.github.io/Deep-Learning-Tutorials/)
 
 # TUTORIALS
-I prepare the below tutorials to help you at solving Deep Learning probleös with TensorFlow and Keras.
-You can also watch all the below tutorials in English or Turkish at the [Murat Karakaya Akademi Youtube channel.](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA) 
+I prepare the below tutorials to help you at solving Deep Learning problems with TensorFlow and Keras.
+You can also watch **all the tutorials** in English or Turkish at the [Murat Karakaya Akademi Youtube channel.](https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA) 
+
 I hope you find these tutorials helpful and useful.
+
 Enjoy!
+
 Murat Karakaya
 
 ## SEQ2SEQ LEARNING
