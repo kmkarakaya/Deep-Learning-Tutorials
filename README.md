@@ -40,7 +40,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 
 * [How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
 
-## CONVOLUTIONAL NEURAL NETWORKS (CNN)
+## CONVOLUTIONAL NEURAL NETWORKS (CNN) & KERAS CONVOLUTIONAL LAYERS
 
 * [What are Convolution, Filters, and Feature Map? How Keras Conv2d Layer Works?](https://github.com/kmkarakaya/ML_tutorials/blob/master/CNN_Filters_Conv2D.ipynb)
 * [Understand and Use Keras Conv1d Layer: Predict House Prices](https://github.com/kmkarakaya/ML_tutorials/blob/master/Conv1d_Predict_house_prices.ipynb)
@@ -53,16 +53,20 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [How to solve Binary Classification Problems in Deep Learning with Tensorflow & Keras](https://github.com/kmkarakaya/ML_tutorials/blob/master/Which_Activation_%26_Loss_functions_in_Binary_Classification.ipynb)
 * [Text Classification: Wish or Curse?](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
 
-## ALL ABOUT LSTM IN KERAS
+## LSTM IN KERAS
 
 * [LSTM: Introduction](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Intro.ipynb)
 * [LSTM: Understanding Output Types](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_Output_Types.ipynb)
 * [LSTM: Understanding the Number of Parameters](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_the_Number_of_Parameters.ipynb)
+* [Using LSTM layer in a Recurrent Neural Network Model](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_B_Using_LSTM_layer_in_a_Recurrent_Neural_Network.ipynb)
+* [Basic Encoder Decoder Model with LSTM](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_C_Basic_Encoder_Decoder.ipynb)
 
 
 ## TEXT GENERATION WITH KERAS
 
 * [Text Generation: Fundementals](https://github.com/kmkarakaya/ML_tutorials/blob/master/Text_Generation_Fundementals.ipynb)
+* [Build an Efficient TensorFlow Input Pipeline for Char-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Char_Level_Text_Generation.ipynb)
+* [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
 
 ## WEB SCRAPING
