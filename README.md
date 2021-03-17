@@ -72,6 +72,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [Build an Efficient TensorFlow Input Pipeline for Char-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Char_Level_Text_Generation.ipynb)
 * [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
+* [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
 
 ## WEB SCRAPING
 
