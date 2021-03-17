@@ -68,6 +68,8 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 
 ## TEXT GENERATION WITH KERAS
 
+In this series, we have been covering all the topics related to Text Generation with sample implementations in Python, Tensorflow & Keras.
+
 * [Text Generation: Fundementals](https://github.com/kmkarakaya/ML_tutorials/blob/master/Text_Generation_Fundementals.ipynb)
 * [Build an Efficient TensorFlow Input Pipeline for Char-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Char_Level_Text_Generation.ipynb)
 * [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
