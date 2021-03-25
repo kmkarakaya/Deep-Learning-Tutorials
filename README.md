@@ -75,6 +75,7 @@ In this series, we have been covering all the topics related to Text Generation 
 * [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
 * [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
+* [Character Level Text Generation with an Encoder Decoder Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_Encoder_Decoder_Model.ipynb)
 
 ## WEB SCRAPING
 
