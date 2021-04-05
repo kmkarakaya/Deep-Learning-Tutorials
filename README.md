@@ -79,7 +79,7 @@ In this series, we have been covering all the topics related to Text Generation 
 
 ## WEB SCRAPING
 
-* [Web Scrapping: Car Proice Prediction ](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_1.ipynb)
+* [Web Scrapping: Car Price Prediction ](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_1.ipynb)
 * [Web Scrapping: Find Your Dream Car](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_FindYourDreamCar.ipynb)
 
 
