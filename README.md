@@ -64,7 +64,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [LSTM: Understanding the Number of Parameters](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_the_Number_of_Parameters.ipynb)
 * [Using LSTM layer in a Recurrent Neural Network Model](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_B_Using_LSTM_layer_in_a_Recurrent_Neural_Network.ipynb)
 * [Basic Encoder Decoder Model with LSTM](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_C_Basic_Encoder_Decoder.ipynb)
-
+* [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
 
 ## TEXT GENERATION WITH KERAS
 
