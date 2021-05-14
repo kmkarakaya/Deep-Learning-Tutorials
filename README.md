@@ -76,6 +76,11 @@ In this series, we have been covering all the topics related to Text Generation 
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
 * [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
 * [Character Level Text Generation with an Encoder Decoder Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_Encoder_Decoder_Model.ipynb)
+## CONTROLLABLE TEXT GENERATION WITH TRANSFORMERS 
+
+In this series, we have been covering all the topics related to Controllable (Conditioned) Text Generation with sample implementations in Python, Tensorflow & Keras.
+* [Fundamentals of Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Part_A1_Fundamentals_of_Text_Generation.ipynb)
+
 
 ## WEB SCRAPING
 
