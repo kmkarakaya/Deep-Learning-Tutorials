@@ -87,7 +87,8 @@ In this series, we have been covering all the topics related to Controllable (Co
 * [Web Scrapping: Car Price Prediction ](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_1.ipynb)
 * [Web Scrapping: Find Your Dream Car](https://github.com/kmkarakaya/ML_tutorials/blob/master/webScrapping_FindYourDreamCar.ipynb)
 
-
+## TensorFlow & Keras Layers 
+* [Save and Load Keras Models with Custom Layers: TensorFlow SavedModel & HDF5 formats](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Save_Load_Keras_Models_with_Custom_Layers.ipynb)
 
 
 
