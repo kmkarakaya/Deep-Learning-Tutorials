@@ -55,7 +55,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [How to solve Multi-Class Image Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Class_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
 * [How to solve Multi-Label Image Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/How_to_solve_Multi_Label_Classification_Problems_in_Deep_Learning_with_Tensorflow_%26_Keras.ipynb)
 * [How to solve Binary Image Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/Which_Activation_%26_Loss_functions_in_Binary_Classification.ipynb)
-* [How to solve Binary Text Classification: Wish or Curse?](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
+* [How to solve Binary Text Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
 
 ## LSTM IN KERAS
 
