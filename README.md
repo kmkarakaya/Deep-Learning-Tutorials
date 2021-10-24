@@ -57,6 +57,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [How to solve Binary Image Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/Which_Activation_%26_Loss_functions_in_Binary_Classification.ipynb)
 * [How to solve Binary Text Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
 * [Multi-Class Text Classification with a GPT3 Transformer block: An End-to-End Example](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Class_Text_Classification_End_to_End_Example_.ipynb)
+* [Using Keras Text Vectorization Layer For a Multi-Class Text Classification](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 
 ## LSTM IN KERAS
 
@@ -77,6 +78,8 @@ In this series, we have been covering all the topics related to Text Generation 
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
 * [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
 * [Character Level Text Generation with an Encoder Decoder Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_Encoder_Decoder_Model.ipynb)
+
+
 ## CONTROLLABLE TEXT GENERATION WITH TRANSFORMERS 
 
 In this series, we have been covering all the topics related to Controllable (Conditioned) Text Generation with sample implementations in Python, Tensorflow & Keras.
@@ -90,6 +93,7 @@ In this series, we have been covering all the topics related to Controllable (Co
 
 ## TensorFlow & Keras Layers 
 * [Save and Load Keras Models with Custom Layers: TensorFlow SavedModel & HDF5 formats](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Save_Load_Keras_Models_with_Custom_Layers.ipynb)
+* [Keras Text Vectorization Layer: Configure, Adapt, Use, Save And Upload](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 
 
 
