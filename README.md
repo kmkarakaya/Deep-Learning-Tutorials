@@ -43,6 +43,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 ## MODEL EVALUATION & METRICS
 
 * [How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
+* [How to Evaluate a Classifier Trained with an Imbalanced Dataset? Why Accuracy is not Enough?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/AccuracyIsNotEnough.ipynb)
 
 ## CONVOLUTIONAL NEURAL NETWORKS (CNN) & KERAS CONVOLUTIONAL LAYERS
 
@@ -58,6 +59,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [How to solve Binary Text Classification Problems](https://github.com/kmkarakaya/ML_tutorials/blob/master/WishOrCurse_SimpleEmbedding.ipynb)
 * [Multi-Class Text Classification with a GPT3 Transformer block: An End-to-End Example](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Class_Text_Classification_End_to_End_Example_.ipynb)
 * [Using Keras Text Vectorization Layer For a Multi-Class Text Classification](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
+* [How to Evaluate a Classifier Trained with an Imbalanced Dataset? Why Accuracy is not Enough?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/AccuracyIsNotEnough.ipynb)
 
 ## LSTM IN KERAS
 
