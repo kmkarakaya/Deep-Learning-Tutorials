@@ -60,7 +60,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [Multi-Class Text Classification with a GPT3 Transformer block: An End-to-End Example](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Class_Text_Classification_End_to_End_Example_.ipynb)
 * [Using Keras Text Vectorization Layer For a Multi-Class Text Classification](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 * [How to Evaluate a Classifier Trained with an Imbalanced Dataset? Why Accuracy is not Enough?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/AccuracyIsNotEnough.ipynb)
-* [Multi Topic (Multi Class) Text Classification With Deep Learning Models](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Topic_Text_Classification_With_Deep_Learning_Models.ipynb)
+* [Multi Topic (Multi Class) Text Classification With various Deep Learning Models](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Topic_Text_Classification_With_Deep_Learning_Models.ipynb)
 
 ## LSTM IN KERAS
 
