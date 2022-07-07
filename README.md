@@ -15,6 +15,9 @@ Enjoy!
 
 Murat Karakaya
 
+## Hugging Face Transformers
+* [How to Train a Hugging Face Causal Language Model from Scratch with a Custom Dataset and a Custom Tokenizer?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Training_a_Hugging_Face_causal_language_model_from_scratch_(TensorFlow).ipynb)
+
 ## SEQ2SEQ LEARNING
 If you are interested in Seq2Seq Learning, I have a good news for you.
 Recently, I have been working on Seq2Seq Learning and I decided to prepare a series of tutorials about Seq2Seq Learning from a simple Multi-Layer Perceptron Neural Network model to Encoder Decoder Model with Attention.
