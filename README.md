@@ -102,5 +102,5 @@ In this series, we have been covering all the topics related to Controllable (Co
 * [Keras Text Vectorization Layer: Configure, Adapt, Use, Save, Load, and Deploy to Hugging Face Spaces using Gradio](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 
 ### Large Language Models (LLMs)
-* [ZIPPING LLMs: Quantization & Off-loading](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/dfa00eb24899e0f038435861df8ac8d99a40b7d6/ppt/Quantization%20and%20offloading.pptx)
+* [ZIPPING LLMs: Quantization & Off-loading](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/e9416a5338dc5d190545d2828babf547995c8503/ppt/Quantization%20and%20offloading.pdf)
 
