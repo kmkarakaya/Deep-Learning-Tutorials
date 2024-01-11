@@ -101,5 +101,6 @@ In this series, we have been covering all the topics related to Controllable (Co
 * [Save and Load Keras Models with Custom Layers: TensorFlow SavedModel & HDF5 formats](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Save_Load_Keras_Models_with_Custom_Layers.ipynb)
 * [Keras Text Vectorization Layer: Configure, Adapt, Use, Save, Load, and Deploy to Hugging Face Spaces using Gradio](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 
-
+### Large Language Models (LLMs)
+* [ZIPPING LLMs: Quantization & Off-loading](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/dfa00eb24899e0f038435861df8ac8d99a40b7d6/ppt/Quantization%20and%20offloading.pptx)
 
