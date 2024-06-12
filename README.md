@@ -15,6 +15,9 @@ Enjoy!
 
 Murat Karakaya
 
+## GOOGLE GEMINI
+* [GOOGLE GEMINI: Ücretsiz Olarak PDF Belgelerinize Sorular Sorun Cevaplarla Rapor oluşturun ve Word Belgesi Olarak İndirin]()
+
 ## HUGGING FACE TRANSFORMERS
 * [How to Train a Hugging Face Causal Language Model from Scratch with a Custom Dataset and a Custom Tokenizer?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Training_a_Hugging_Face_causal_language_model_from_scratch_(TensorFlow).ipynb)
 
@@ -45,7 +48,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 
 ## MODEL EVALUATION & METRICS
 
-* [How to Evaulate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
+* [How to Evaluate Models in Multi-Label Classification](https://github.com/kmkarakaya/ML_tutorials/blob/master/Multi_Label_Model_Evaulation.ipynb)
 * [How to Evaluate a Classifier Trained with an Imbalanced Dataset? Why Accuracy is not Enough?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/AccuracyIsNotEnough.ipynb)
 
 ## CONVOLUTIONAL NEURAL NETWORKS (CNN) & KERAS CONVOLUTIONAL LAYERS
@@ -63,7 +66,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [Multi-Class Text Classification with a GPT3 Transformer block: An End-to-End Example](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Class_Text_Classification_End_to_End_Example_.ipynb)
 * [Using Keras Text Vectorization Layer For a Multi-Class Text Classification](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 * [How to Evaluate a Classifier Trained with an Imbalanced Dataset? Why Accuracy is not Enough?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/AccuracyIsNotEnough.ipynb)
-* [Multi Topic (Multi Class) Text Classification With various Deep Learning Models](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Topic_Text_Classification_With_Deep_Learning_Models.ipynb)
+* [Multi Topic (Multi-Class) Text Classification With various Deep Learning Models](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Multi_Topic_Text_Classification_With_Deep_Learning_Models.ipynb)
 
 ## LSTM IN KERAS
 
@@ -71,7 +74,7 @@ Moreover, we will see how to use TensorBoard add-on "TF Profiler" for monitoring
 * [LSTM: Understanding Output Types](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_Output_Types.ipynb)
 * [LSTM: Understanding the Number of Parameters](https://github.com/kmkarakaya/ML_tutorials/blob/master/LSTM_Understanding_the_Number_of_Parameters.ipynb)
 * [Using LSTM layer in a Recurrent Neural Network Model](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_B_Using_LSTM_layer_in_a_Recurrent_Neural_Network.ipynb)
-* [Basic Encoder Decoder Model with LSTM](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_C_Basic_Encoder_Decoder.ipynb)
+* [Basic Encoder-Decoder Model with LSTM](https://github.com/kmkarakaya/ML_tutorials/blob/master/seq2seq_Part_C_Basic_Encoder_Decoder.ipynb)
 * [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
 
 ## TEXT GENERATION WITH KERAS
@@ -83,7 +86,7 @@ In this series, we have been covering all the topics related to Text Generation 
 * [Build an Efficient TensorFlow Input Pipeline for Word-Level Text Generation](https://github.com/kmkarakaya/ML_tutorials/blob/master/Build_an_Efficient_TensorFlow_Input_Pipeline_for_Word_Level_Text_Generation.ipynb)
 * [Text Generation: Sampling](https://github.com/kmkarakaya/ML_tutorials/blob/master/Sampling_in_Text_Generation.ipynb)
 * [Character Level Text Generation with an LSTM Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_LSTM_Model.ipynb)
-* [Character Level Text Generation with an Encoder Decoder Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_Encoder_Decoder_Model.ipynb)
+* [Character Level Text Generation with an Encoder-Decoder Model](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Char_Level_Text_Generation_with_an_Encoder_Decoder_Model.ipynb)
 
 
 ## CONTROLLABLE TEXT GENERATION WITH TRANSFORMERS 
@@ -101,6 +104,7 @@ In this series, we have been covering all the topics related to Controllable (Co
 * [Save and Load Keras Models with Custom Layers: TensorFlow SavedModel & HDF5 formats](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Save_Load_Keras_Models_with_Custom_Layers.ipynb)
 * [Keras Text Vectorization Layer: Configure, Adapt, Use, Save, Load, and Deploy to Hugging Face Spaces using Gradio](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Text_Vectorization_Use_Save_Upload.ipynb)
 
-### Large Language Models (LLMs)
+## Large Language Models (LLMs)
 * [ZIPPING LLMs: Quantization & Off-loading](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/e9416a5338dc5d190545d2828babf547995c8503/ppt/Quantization%20and%20offloading.pdf)
+
 
