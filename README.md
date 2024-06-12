@@ -16,7 +16,7 @@ Enjoy!
 Murat Karakaya
 
 ## GOOGLE GEMINI
-* [GOOGLE GEMINI: Ücretsiz Olarak PDF Belgelerinize Sorular Sorun Cevaplarla Rapor oluşturun ve Word Belgesi Olarak İndirin]()
+* [GOOGLE GEMINI: Ücretsiz Olarak PDF Belgelerinize Sorular Sorun Cevaplarla Rapor oluşturun ve Word Belgesi Olarak İndirin](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/RaporHaz%C4%B1rlay%C4%B1c%C4%B1.ipynb)
 
 ## HUGGING FACE TRANSFORMERS
 * [How to Train a Hugging Face Causal Language Model from Scratch with a Custom Dataset and a Custom Tokenizer?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Training_a_Hugging_Face_causal_language_model_from_scratch_(TensorFlow).ipynb)
