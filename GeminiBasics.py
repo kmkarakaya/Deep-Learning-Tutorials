@@ -27,3 +27,7 @@ if 'GEMINI_API_KEY' in os.environ:
             print(m.name)
 else:
     print('GEMINI_API_KEY is not set')
+
+
+print('Done') 
+    
