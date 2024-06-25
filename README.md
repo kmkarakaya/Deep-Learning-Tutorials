@@ -18,11 +18,13 @@ Murat Karakaya
 ## GOOGLE GEMINI
 * [A COMPREHENSIVE INTRODUCTION TO GEMINI API FOR TEXT GENERATION & CHAT](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartA.ipynb)
 * [GOOGLE GEMINI: Upload Your Document Ask Questions Create Report For Free](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/RaporHaz%C4%B1rlay%C4%B1c%C4%B1.ipynb)
+* [A SIMPLE RAG PIPELINE BASED ON GEMINI & CHROMADB](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartD.ipynb)
 
 ## Retrieval Augmented Generation RAG 
 * [PART A: A COMPREHENSIVE INTRODUCTION TO GEMINI API FOR TEXT GENERATION & CHAT](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartA.ipynb)
 * [PART B: CODE CHROMADB FOR VECTOR STORAGE & SIMILARITY SEARCH](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartB.ipynb)
 * [PART C: CODE WITH CHROMADB FOR PERSISTENT VECTOR DB](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartC.ipynb)
+* [PART D: A SIMPLE RAG PIPELINE BASED ON GEMINI & CHROMADB](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Simple_Rag_with_chromaDB_Gemini_PartD.ipynb)
 
 ## HUGGING FACE TRANSFORMERS
 * [How to Train a Hugging Face Causal Language Model from Scratch with a Custom Dataset and a Custom Tokenizer?](https://github.com/kmkarakaya/Deep-Learning-Tutorials/blob/master/Training_a_Hugging_Face_causal_language_model_from_scratch_(TensorFlow).ipynb)
